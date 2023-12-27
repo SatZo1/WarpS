@@ -133,8 +133,8 @@
         },
         {
             "type": "wireguard",
-            "server": "engage.cloudflareclient.com",
-            "server_port": 2408,
+            "server": "162.159.192.66",
+            "server_port": 939,
             "local_address": [
                 "172.16.0.2\/32",
                 "2606:4700:110:8080:8edc:39fa:9c49:95eb\/128"
